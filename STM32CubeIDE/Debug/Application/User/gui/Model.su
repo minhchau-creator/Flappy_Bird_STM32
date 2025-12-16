@@ -1,0 +1,4 @@
+C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/model/Model.cpp:4:1:Model::Model()	0	static
+C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/model/Model.cpp:9:6:void Model::tick()	0	static
+C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/model/Model.cpp:14:6:void Model::update(int16_t)	0	static
+C:/TouchGFXProjects/Flappy_Bird_Game/TouchGFX/gui/src/model/Model.cpp:19:9:int16_t Model::GetImageX()	0	static
